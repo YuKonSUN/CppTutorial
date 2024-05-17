@@ -8,7 +8,7 @@ public class CppTutorialEditor : ModuleRules
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore","UnrealEd", "CppTutorial" });
+		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "EnhancedInput", "UnrealEd", "CppTutorial" });
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
 
