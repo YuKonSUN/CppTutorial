@@ -4,7 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/GameModeBase.h"
-#include "XPPawn.h"
+#include "XPCharacter.h"
 #include "GameFramework/DefaultPawn.h"
 #include "CppTutorialGameModeBase.generated.h"
 
@@ -22,6 +22,6 @@ public:
 	void InitGameState() override;
 	
 	UPROPERTY(EditAnywhere, NoClear)
-	TSubclassOf<AXPPawn> CustomXPPawnClass = AXPPawn::StaticClass();
+	TSubclassOf<AXPCharacter> CustomXPPawnClass = AXPCharacter::StaticClass();
 	
 };

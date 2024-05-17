@@ -43,7 +43,6 @@ public:
 	void Jump(float veloctity);
 
 
-
 private:
 	UPROPERTY(EditDefaultsOnly)
 	UStaticMeshComponent* StaticMesh;

@@ -7,7 +7,7 @@ void ACppTutorialGameModeBase::InitGameState()
 {
 	Super::InitGameState();
 
-	if (DefaultPawnClass == ADefaultPawn::StaticClass())
+	if (DefaultPawnClass == ADefaultPawn::StaticClass() || !DefaultPawnClass)
 	{
 		DefaultPawnClass = CustomXPPawnClass;
 	}
