@@ -30,7 +30,7 @@ void AXPCharacter::BeginPlay()
 void AXPCharacter::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
-
+	bUseControllerRotationPitch = true;
 }
 
 // Called to bind functionality to input
@@ -69,5 +69,6 @@ void AXPCharacter::Look(const FInputActionValue& ActionValue)
 {
 	FVector2D LookInput = ActionValue.Get<FVector2D>();
 	AddControllerYawInput(LookInput.X * TurnSpeed * GetWorld()->GetDeltaSeconds());
+	AddControllerPitchInput(LookInput.Y * TurnSpeed * GetWorld()->GetDeltaSeconds());
 }
 

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\TimePowerGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\TimePowerGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\TimePowerGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\TimePowerGame">
+      <UniqueIdentifier>{664A547A-7AF3-3CF7-A206-14DBB95EB3A7}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\TimePowerGame\ReverseTimeComponent.cpp">
+      <Filter>Source\TimePowerGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TimePowerGame\ReverseTimeComponent.h">
+      <Filter>Source\TimePowerGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TimePowerGame\TimeManager.cpp">
+      <Filter>Source\TimePowerGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TimePowerGame\TimeManager.h">
+      <Filter>Source\TimePowerGame</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\TimePowerGame\TimePowerGame.Build.cs">
+      <Filter>Source\TimePowerGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\TimePowerGame\TimePowerGame.cpp">
+      <Filter>Source\TimePowerGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TimePowerGame\TimePowerGame.h">
+      <Filter>Source\TimePowerGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TimePowerGame\TimePowerGameModeBase.cpp">
+      <Filter>Source\TimePowerGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TimePowerGame\TimePowerGameModeBase.h">
+      <Filter>Source\TimePowerGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TimePowerGame\TimeReversalGameMode.cpp">
+      <Filter>Source\TimePowerGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TimePowerGame\TimeReversalGameMode.h">
+      <Filter>Source\TimePowerGame</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

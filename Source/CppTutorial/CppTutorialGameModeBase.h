@@ -22,6 +22,6 @@ public:
 	void InitGameState() override;
 	
 	UPROPERTY(EditAnywhere, NoClear)
-	TSubclassOf<AXPCharacter> CustomXPPawnClass = AXPCharacter::StaticClass();
+	TSubclassOf<AXPCharacter> CustomXPCharacterClass = AXPCharacter::StaticClass();
 	
 };

@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\projects\\unreal projects\\cpptutorial\\timepowergame\\source\\timepowergame\\timemanager.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\projects\\unreal projects\\cpptutorial\\timepowergame\\intermediate\\build\\win64\\x64\\timepowergameeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "e:\\projects\\unreal projects\\cpptutorial\\timepowergame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\timepowergame\\definitions.timepowergame.h",
+            "e:\\projects\\unreal projects\\cpptutorial\\timepowergame\\source\\timepowergame\\timemanager.h",
+            "e:\\projects\\unreal projects\\cpptutorial\\timepowergame\\intermediate\\build\\win64\\unrealeditor\\inc\\timepowergame\\uht\\timemanager.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

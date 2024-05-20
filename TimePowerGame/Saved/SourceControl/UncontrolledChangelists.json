@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Projects/Unreal Projects/CppTutorial/TimePowerGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/Projects/Unreal Projects/CppTutorial/TimePowerGame/Content/ReversableActors/BP_Rev_Train.uasset",
+				"E:/Projects/Unreal Projects/CppTutorial/TimePowerGame/Content/StarterContent/Maps/Minimal_Default.umap",
+				"E:/Projects/Unreal Projects/CppTutorial/TimePowerGame/Content/BP_Character.uasset",
+				"E:/Projects/Unreal Projects/CppTutorial/TimePowerGame/Content/BP_GameMode.uasset",
+				"E:/Projects/Unreal Projects/CppTutorial/TimePowerGame/Content/Input/IMC_KeyBinding.uasset",
+				"E:/Projects/Unreal Projects/CppTutorial/TimePowerGame/Content/Input/IA_Movement.uasset",
+				"E:/Projects/Unreal Projects/CppTutorial/TimePowerGame/Content/Input/IA_Look.uasset",
+				"E:/Projects/Unreal Projects/CppTutorial/TimePowerGame/Content/Input/ReverseTime.uasset",
+				"E:/Projects/Unreal Projects/CppTutorial/TimePowerGame/Content/Components/PressableAction.uasset",
+				"E:/Projects/Unreal Projects/CppTutorial/TimePowerGame/Content/Components/PressableSource.uasset",
+				"E:/Projects/Unreal Projects/CppTutorial/TimePowerGame/Content/ReversableActors/BP_Button.uasset"
+			]
+		}
+	]
+}

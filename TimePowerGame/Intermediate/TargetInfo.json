@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TimePowerGame",
+			"Path": "..\\Source\\TimePowerGame.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TimePowerGameEditor",
+			"Path": "..\\Source\\TimePowerGameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

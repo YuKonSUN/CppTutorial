@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\projects\\unreal projects\\cpptutorial\\timepowergame\\intermediate\\build\\win64\\unrealeditor\\inc\\timepowergame\\uht\\reversetimecomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\projects\\unreal projects\\cpptutorial\\timepowergame\\intermediate\\build\\win64\\x64\\timepowergameeditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "e:\\projects\\unreal projects\\cpptutorial\\timepowergame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\timepowergame\\definitions.timepowergame.h",
+            "e:\\projects\\unreal projects\\cpptutorial\\timepowergame\\source\\timepowergame\\reversetimecomponent.h",
+            "e:\\projects\\unreal projects\\cpptutorial\\timepowergame\\source\\timepowergame\\timemanager.h",
+            "e:\\projects\\unreal projects\\cpptutorial\\timepowergame\\intermediate\\build\\win64\\unrealeditor\\inc\\timepowergame\\uht\\timemanager.generated.h",
+            "e:\\projects\\unreal projects\\cpptutorial\\timepowergame\\source\\timepowergame\\timereversalgamemode.h",
+            "d:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "e:\\projects\\unreal projects\\cpptutorial\\timepowergame\\intermediate\\build\\win64\\unrealeditor\\inc\\timepowergame\\uht\\timereversalgamemode.generated.h",
+            "e:\\projects\\unreal projects\\cpptutorial\\timepowergame\\intermediate\\build\\win64\\unrealeditor\\inc\\timepowergame\\uht\\reversetimecomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
