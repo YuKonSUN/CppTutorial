@@ -42,6 +42,12 @@
     <ClInclude Include="..\..\Source\TimePowerGame\TimeManager.h">
       <Filter>Source\TimePowerGame</Filter>
     </ClInclude>
+    <ClCompile Include="..\..\Source\TimePowerGame\TimepointBase.cpp">
+      <Filter>Source\TimePowerGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TimePowerGame\TimepointBase.h">
+      <Filter>Source\TimePowerGame</Filter>
+    </ClInclude>
     <None Include="..\..\Source\TimePowerGame\TimePowerGame.Build.cs">
       <Filter>Source\TimePowerGame</Filter>
     </None>

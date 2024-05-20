@@ -17,7 +17,7 @@ void EmptyLinkFunctionForGeneratedCodeTimePowerGame_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xF82C304C,
+				0x0852B4F2,
 				0x11B6F25A,
 				METADATA_PARAMS(0, nullptr)
 			};
@@ -25,5 +25,5 @@ void EmptyLinkFunctionForGeneratedCodeTimePowerGame_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_TimePowerGame.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_TimePowerGame(Z_Construct_UPackage__Script_TimePowerGame, TEXT("/Script/TimePowerGame"), Z_Registration_Info_UPackage__Script_TimePowerGame, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xF82C304C, 0x11B6F25A));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_TimePowerGame(Z_Construct_UPackage__Script_TimePowerGame, TEXT("/Script/TimePowerGame"), Z_Registration_Info_UPackage__Script_TimePowerGame, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x0852B4F2, 0x11B6F25A));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

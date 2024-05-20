@@ -19,9 +19,13 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define FID_TimePowerGame_Source_TimePowerGame_TimeManager_h_12_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS
 #define FID_TimePowerGame_Source_TimePowerGame_TimeManager_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
  \
+	DECLARE_FUNCTION(execDisableTimeReverseAbility); \
+	DECLARE_FUNCTION(execEnableTimeReverseAbility); \
 	DECLARE_FUNCTION(execEndTimeReverse); \
 	DECLARE_FUNCTION(execBeginTimeReverse); \
-	DECLARE_FUNCTION(execGetTimeFactor);
+	DECLARE_FUNCTION(execGetTimeFactor); \
+	DECLARE_FUNCTION(execGetCurrentReversableTime); \
+	DECLARE_FUNCTION(execGetAbilityAvailible);
 
 
 #define FID_TimePowerGame_Source_TimePowerGame_TimeManager_h_12_ACCESSORS

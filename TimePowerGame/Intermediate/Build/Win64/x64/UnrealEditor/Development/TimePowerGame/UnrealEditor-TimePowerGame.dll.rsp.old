@@ -35,10 +35,12 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
 "E:\Projects\Unreal Projects\CppTutorial\TimePowerGame\Intermediate\Build\Win64\x64\TimePowerGameEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"E:\Projects\Unreal Projects\CppTutorial\TimePowerGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TimePowerGame\ReverseTimeComponent.gen.cpp.obj"
 "E:\Projects\Unreal Projects\CppTutorial\TimePowerGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TimePowerGame\TimeManager.gen.cpp.obj"
 "E:\Projects\Unreal Projects\CppTutorial\TimePowerGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TimePowerGame\TimePowerGame.init.gen.cpp.obj"
 "E:\Projects\Unreal Projects\CppTutorial\TimePowerGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TimePowerGame\TimePowerGameModeBase.gen.cpp.obj"
 "E:\Projects\Unreal Projects\CppTutorial\TimePowerGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TimePowerGame\TimeReversalGameMode.gen.cpp.obj"
+"E:\Projects\Unreal Projects\CppTutorial\TimePowerGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TimePowerGame\ReverseTimeComponent.cpp.obj"
 "E:\Projects\Unreal Projects\CppTutorial\TimePowerGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TimePowerGame\TimeManager.cpp.obj"
 "E:\Projects\Unreal Projects\CppTutorial\TimePowerGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TimePowerGame\TimePowerGame.cpp.obj"
 "E:\Projects\Unreal Projects\CppTutorial\TimePowerGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\TimePowerGame\TimePowerGameModeBase.cpp.obj"
